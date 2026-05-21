@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Website -->
+  <url>
+    <loc>https://jamiebrennantherapy.com/</loc>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Hub Page -->
+  <url>
+    <loc>https://jamiebrennantherapy.com/hub.html</loc>
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Key Service Pages -->
+  <url>
+    <loc>https://jamiebrennantherapy.com/individual-therapy/</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jamiebrennantherapy.com/couples-therapy/</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jamiebrennantherapy.com/life-transitions/</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://jamiebrennantherapy.com/spiritual-growth/</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://jamiebrennantherapy.com/contact/</loc>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+</urlset>
